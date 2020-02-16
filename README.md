@@ -1,3 +1,5 @@
+# ITP Thesis w/ Stefani Bardin
+
 ## Class 1
 
 ### January 28th
