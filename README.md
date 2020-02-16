@@ -44,7 +44,7 @@ Assignments:
 
 # Class 4
 
-February 18th
+## February 18th
 
 In class: 
 
