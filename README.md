@@ -1,6 +1,6 @@
-# Class 1
+## Class 1
 
-## January 28th
+### January 28th
 
 In class:
 
@@ -8,13 +8,13 @@ In class:
 
 Assignments:
 
-- due February 2nd  - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
-- due February 4th  - [journal entry re: dream review](https://github.com/nopivnick/itp_thesis_weekly/wiki/Dream-review)
+- due February 2nd  - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due February 4th  - [journal entry re: dream review](https://github.com/nopivnick/itp_thesis_weekly/wiki/Dream-Review)
 - due February 4th  - be prepared to describe your preliminary idea
 
-# Class 2
+## Class 2
 
-## February 4th
+### February 4th
 
 In class:
 
@@ -23,14 +23,14 @@ In class:
 
 Assignments:
 
-- due February 9th  - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
-- due February 11th - journal entry re: experts
-- due February 11th - be prepared to describe your intended audience
+- due February 9th  - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due February 11th - [be prepared to describe your experts](https://github.com/nopivnick/itp_thesis_weekly/wiki/Experts)
+- due February 11th - [be prepared to describe your intended audience](https://github.com/nopivnick/itp_thesis_weekly/wiki/Intended-Audience)
 - due February 11th - bring rapid prototyping materials
 
-# Class 3
+## Class 3
 
-## February 11th
+### February 11th
 
 In class: 
 
@@ -39,26 +39,12 @@ In class:
 
 Assignments:
 
-- due February 14th - thesis proposal 
-- due February 16th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
+- due February 14th - [thesis proposal](https://github.com/nopivnick/itp_thesis_weekly/wiki/Thesis-Proposal) 
+- due February 16th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 
-# Class 4
+## Class 4
 
-## February 18th
-
-In class: 
-
--  
-
-Assignments:
-
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
-- due (date)   - journal entry re: (topic)
-- due (date)   - (other)
-
-# Class 5
-
-## February 25th
+### February 18th
 
 In class: 
 
@@ -66,13 +52,13 @@ In class:
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
+- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due (date)   - journal entry re: (topic)
 - due (date)   - (other)
 
-# Class 6
+## Class 5
 
-## March 3rd
+### February 25th
 
 In class: 
 
@@ -80,13 +66,13 @@ In class:
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
+- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due (date)   - journal entry re: (topic)
 - due (date)   - (other)
 
-# Class 7
+## Class 6
 
-## March 10th
+### March 3rd
 
 In class: 
 
@@ -94,13 +80,13 @@ In class:
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
+- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due (date)   - journal entry re: (topic)
 - due (date)   - (other)
 
-# Class 8
+## Class 7
 
-## March 24th
+### March 10th
 
 In class: 
 
@@ -108,13 +94,13 @@ In class:
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
+- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due (date)   - journal entry re: (topic)
 - due (date)   - (other)
 
-# Class 9
+## Class 8
 
-## March 31st
+### March 24th
 
 In class: 
 
@@ -122,13 +108,13 @@ In class:
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
+- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due (date)   - journal entry re: (topic)
 - due (date)   - (other)
 
-# Class 10
+## Class 9
 
-## April 7th
+### March 31st
 
 In class: 
 
@@ -136,13 +122,13 @@ In class:
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
+- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due (date)   - journal entry re: (topic)
 - due (date)   - (other)
 
-# Class 11
+## Class 10
 
-## April 14th
+### April 7th
 
 In class: 
 
@@ -150,13 +136,13 @@ In class:
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
+- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due (date)   - journal entry re: (topic)
 - due (date)   - (other)
 
-# Class 12
+## Class 11
 
-## April 21
+### April 14th
 
 In class: 
 
@@ -164,13 +150,13 @@ In class:
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
+- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due (date)   - journal entry re: (topic)
 - due (date)   - (other)
 
-# Class 13
+## Class 12
 
-## April 28th
+### April 21
 
 In class: 
 
@@ -178,13 +164,27 @@ In class:
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
+- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due (date)   - journal entry re: (topic)
 - due (date)   - (other)
 
-# Class 14
+## Class 13
 
-## May 5th
+### April 28th
+
+In class: 
+
+-  
+
+Assignments:
+
+- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due (date)   - journal entry re: (topic)
+- due (date)   - (other)
+
+## Class 14
+
+### May 5th
 
 In class: 
 
@@ -192,10 +192,10 @@ In class:
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-update)
+- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due (date)   - journal entry re: (topic)
 - due (date)   - (other)
 
-# Thesis Week
+## Thesis Week
 
-## May 12th - 14th
+### May 12th - 14th
