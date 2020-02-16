@@ -12,7 +12,7 @@ Assignments:
 
 - due February 2nd  - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due February 4th  - [journal entry re: dream review](https://github.com/nopivnick/itp_thesis_weekly/wiki/Dream-Review)
-- due February 4th  - be prepared to describe your preliminary idea
+- due February 4th  - [be prepared to describe your preliminary ideas](https://github.com/nopivnick/itp_thesis_weekly/wiki/Preliminary-Idea(s))
 
 ## Class 2
 
