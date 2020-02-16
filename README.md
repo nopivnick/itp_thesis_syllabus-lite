@@ -9,7 +9,7 @@ In class:
 Assignments:
 
 - due February 2nd  - weekly update
-- due February 4th  - journal entry re: dream review
+- due February 4th  - [journal entry re: dream review](https://github.com/nopivnick/itp_thesis_weekly/wiki/Dream-review)
 - due February 4th  - be prepared to describe your preliminary idea
 
 # Class 2
@@ -35,7 +35,7 @@ Assignments:
 In class: 
 
 - rapid prototyping
-- thesis proposal
+- thesis proposal discussion
 
 Assignments:
 
