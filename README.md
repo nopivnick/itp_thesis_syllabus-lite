@@ -20,6 +20,7 @@ Assignments:
 
 In class:
 
+- thesis resident presentations
 - speed dating
 - dream reviews
 
@@ -37,7 +38,7 @@ Assignments:
 In class: 
 
 - rapid prototyping
-- thesis proposal discussion
+- thesis proposal prep
 
 Assignments:
 
@@ -50,13 +51,14 @@ Assignments:
 
 In class: 
 
--  
+- thesis proposal feedback
+- thesis section mashup (6:30pm - 8:00pm)
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due (date)   - journal entry re: (topic)
-- due (date)   - (other)
+- due February 23rd - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due (date)        - journal entry re: (topic)
+- due (date)        - (other)
 
 ## Class 5
 
@@ -64,13 +66,14 @@ Assignments:
 
 In class: 
 
--  
+- thesis proposal feedback cont'd
+- midterm presentation prep
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due (date)   - journal entry re: (topic)
-- due (date)   - (other)
+- due March 1st - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due (date)    - journal entry re: (topic)
+- due March 3rd - midterm presentation (1 of 2)
 
 ## Class 6
 
@@ -78,13 +81,13 @@ Assignments:
 
 In class: 
 
--  
+-  midterm presentations (1 of 2)
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due (date)   - journal entry re: (topic)
-- due (date)   - (other)
+- due March 8th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due (date)    - journal entry re: (topic)
+- due (date)    - midterm presentation (2 of 2)
 
 ## Class 7
 
@@ -92,13 +95,13 @@ Assignments:
 
 In class: 
 
--  
+-  midterm presentations (2 of 2)
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due (date)   - journal entry re: (topic)
-- due (date)   - (other)
+- due March 22nd - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due (date)     - journal entry re: (topic)
+- due (date)     - (other)
 
 ## Class 8
 
@@ -106,13 +109,13 @@ Assignments:
 
 In class: 
 
--  
+-  Quick & Dirty Show prep
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due (date)   - journal entry re: (topic)
-- due (date)   - (other)
+- due March 29th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due (date)     - journal entry re: (topic)
+- due March 31st - Quick & Dirty show poster
 
 ## Class 9
 
@@ -120,13 +123,13 @@ Assignments:
 
 In class: 
 
--  
+-  Quick & Dirty Show (6:00pm - 8:00pm)
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due (date)   - journal entry re: (topic)
-- due (date)   - (other)
+- due April 5th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due (date)    - journal entry re: (topic)
+- due (date)    - (other)
 
 ## Class 10
 
@@ -138,9 +141,9 @@ In class:
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due (date)   - journal entry re: (topic)
-- due (date)   - (other)
+- due April 12th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due (date)     - journal entry re: (topic)
+- due (date)     - (other)
 
 ## Class 11
 
@@ -152,9 +155,9 @@ In class:
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due (date)   - journal entry re: (topic)
-- due (date)   - (other)
+- due April 19th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due (date)     - journal entry re: (topic)
+- due (date)     - (other)
 
 ## Class 12
 
@@ -162,13 +165,13 @@ Assignments:
 
 In class: 
 
--  
+-  presentation prep
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due (date)   - journal entry re: (topic)
-- due (date)   - (other)
+- due April 26th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due (date)     - journal entry re: (topic)
+- due (date)     - (other)
 
 ## Class 13
 
@@ -176,13 +179,13 @@ Assignments:
 
 In class: 
 
--  
+-  presentation practice
 
 Assignments:
 
-- due (date)   - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due (date)   - journal entry re: (topic)
-- due (date)   - (other)
+- due May 3rd - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due (date)  - journal entry re: (topic)
+- due (date)  - (other)
 
 ## Class 14
 
