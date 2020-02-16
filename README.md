@@ -9,7 +9,8 @@ In class:
 Assignments:
 
 - due February 2nd  - weekly update
-- due February 4th  - dream review
+- due February 4th  - journal entry re: dream review
+- due February 4th  - be prepared to describe your preliminary idea
 
 # Class 2
 
@@ -22,9 +23,10 @@ In class:
 
 Assignments:
 
-- due (date)  - weekly update
-- due (date)  - journal entry re: experts
-- due (date)  - (other)
+- due February 9th  - weekly update
+- due February 11th - journal entry re: experts
+- due February 11th - be prepared to describe your intended audience
+- due February 11th - materials for rapid prototyping
 
 # Class 3
 
@@ -39,7 +41,6 @@ Assignments:
 
 - due February 14th - thesis proposal 
 - due February 16th - weekly update
-
 
 # Class 4
 
