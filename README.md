@@ -51,7 +51,7 @@ Assignments:
 
 In class:
 
-- review thesis proposal feedback
+- review thesis proposal feedback (1 of 2)
 - thesis section mashup (6:30pm - 8:00pm)
 
 Assignments:
@@ -64,7 +64,7 @@ Assignments:
 
 In class:
 
-- review thesis proposal feedback cont'd
+- review thesis proposal feedback (2 of 2)
 - midterm presentation prep
 
 Assignments:
