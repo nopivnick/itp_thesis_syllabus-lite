@@ -168,7 +168,7 @@ Assignments:
 
 In class:
 
-- final presentation rehearsals
+- final presentation rehearsal
 
 Assignments:
 
