@@ -179,7 +179,7 @@ Assignments:
 
 In class: 
 
--  presentation practice
+-  presentation rehearsals
 
 Assignments:
 
@@ -193,7 +193,7 @@ Assignments:
 
 In class: 
 
--  final presentations
+-  final presentations (3:00pm - 9:00pm)
 
 Assignments:
 
