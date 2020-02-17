@@ -51,7 +51,7 @@ Assignments:
 
 In class:
 
-- thesis proposal feedback
+- review thesis proposal feedback
 - thesis section mashup (6:30pm - 8:00pm)
 
 Assignments:
@@ -64,7 +64,7 @@ Assignments:
 
 In class:
 
-- thesis proposal feedback cont'd
+- review thesis proposal feedback cont'd
 - midterm presentation prep
 
 Assignments:
@@ -118,7 +118,7 @@ In class:
 
 - individual meetings w/ thesis advisor & residents
 - Quick & Dirty prep (6:00pm - 7:30pm)
-- Quick & Dirty Show (7:30pm - 9:00pm)
+- Quick & Dirty show (7:30pm - 9:00pm)
 
 Assignments:
 
@@ -131,6 +131,7 @@ Assignments:
 In class:
 
 - individual meetings w/ thesis advisor & residents
+- review Quick & Dirty feedback
 
 Assignments:
 
