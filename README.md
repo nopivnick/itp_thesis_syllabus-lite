@@ -148,7 +148,7 @@
 
 #### Assignments:
 
-- due April 19th - [Thesis Archive](https://github.com/nopivnick/itp_thesis_syllabus-lite/wiki/Thesis-Archive)
+- due April 16th - [Thesis Archive](https://github.com/nopivnick/itp_thesis_syllabus-lite/wiki/Thesis-Archive)
 
 ## Class 12
 
