@@ -1,3 +1,5 @@
+Gantt chart how to [here](https://github.com/nopivnick/itp_thesis_syllabus-lite/wiki/Gantt-Chart).
+
 # ITP Thesis w/ Stefani Bardin
 
 ## Class 1
