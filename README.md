@@ -51,6 +51,7 @@
 
 #### In class:
 
+- individual meetings w/ thesis advisor & residents
 - review thesis proposal feedback (1 of 2)
 - thesis section mashup (6:30pm - 8:00pm)
 
@@ -64,13 +65,13 @@
 
 #### In class:
 
+- individual meetings w/ thesis advisor & residents
 - review thesis proposal feedback (2 of 2)
 - midterm presentation prep
 
 #### Assignments:
 
 - due March 1st - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due March 3rd - [midterm presentation](https://github.com/nopivnick/itp_thesis_syllabus-lite/wiki/Midterm-Presentation) (1 of 2)
 
 ## Class 6
 
@@ -78,12 +79,12 @@
 
 #### In class:
 
-- midterm presentations (1 of 2)
+- individual meetings w/ thesis advisor & residents
 
 #### Assignments:
 
 - due March 8th  - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due March 10th - [midterm presentation](https://github.com/nopivnick/itp_thesis_syllabus-lite/wiki/Midterm-Presentation) (2 of 2)
+- due March 10th - [midterm presentation](https://github.com/nopivnick/itp_thesis_syllabus-lite/wiki/Midterm-Presentation)
 
 ## Class 7
 
@@ -91,7 +92,7 @@
 
 #### In class:
 
-- midterm presentations (2 of 2)
+- midterm presentations (3:00pm - 8:00pm)
 
 #### Assignments:
 
