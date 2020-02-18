@@ -70,7 +70,7 @@
 #### Assignments:
 
 - due March 1st - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due March 3rd - midterm presentation (1 of 2)
+- due March 3rd - [midterm presentation](https://github.com/nopivnick/itp_thesis_syllabus-lite/wiki/Midterm-Presentation) (1 of 2)
 
 ## Class 6
 
@@ -83,7 +83,7 @@
 #### Assignments:
 
 - due March 8th  - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due March 10th - midterm presentation (2 of 2)
+- due March 10th - [midterm presentation](https://github.com/nopivnick/itp_thesis_syllabus-lite/wiki/Midterm-Presentation) (2 of 2)
 
 ## Class 7
 
@@ -108,7 +108,7 @@
 #### Assignments:
 
 - due March 29th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
-- due March 31st - Quick & Dirty poster
+- due March 31st - [Quick & Dirty poster](https://github.com/nopivnick/itp_thesis_syllabus-lite/wiki/Quick-&-Dirty)
 
 ## Class 9
 
@@ -174,6 +174,7 @@
 #### Assignments:
 
 - due May 3rd - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
+- due May 5th - [final presentation](https://github.com/nopivnick/itp_thesis_syllabus-lite/wiki/Final-Presentation)
 
 ## Class 14
 
