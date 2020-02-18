@@ -4,11 +4,11 @@
 
 ### January 28th
 
-In class:
+#### In class:
 
 - present portfolios
 
-Assignments:
+#### Assignments:
 
 - due February 2nd  - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due February 4th  - [journal entry re: dream review](https://github.com/nopivnick/itp_thesis_weekly/wiki/Dream-Review)
@@ -18,13 +18,13 @@ Assignments:
 
 ### February 4th
 
-In class:
+#### In class:
 
 - thesis resident presentations
 - speed dating
 - dream reviews
 
-Assignments:
+#### Assignments:
 
 - due February 9th  - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due February 11th - [be prepared to describe your experts](https://github.com/nopivnick/itp_thesis_weekly/wiki/Experts)
@@ -35,12 +35,12 @@ Assignments:
 
 ### February 11th
 
-In class:
+#### In class:
 
 - rapid prototyping
 - thesis proposal prep
 
-Assignments:
+#### Assignments:
 
 - due February 14th - [thesis proposal](https://github.com/nopivnick/itp_thesis_weekly/wiki/Thesis-Proposal) 
 - due February 16th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
@@ -49,12 +49,12 @@ Assignments:
 
 ### February 18th
 
-In class:
+#### In class:
 
 - review thesis proposal feedback (1 of 2)
 - thesis section mashup (6:30pm - 8:00pm)
 
-Assignments:
+#### Assignments:
 
 - due February 23rd - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 
@@ -62,12 +62,12 @@ Assignments:
 
 ### February 25th
 
-In class:
+#### In class:
 
 - review thesis proposal feedback (2 of 2)
 - midterm presentation prep
 
-Assignments:
+#### Assignments:
 
 - due March 1st - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due March 3rd - midterm presentation (1 of 2)
@@ -76,11 +76,11 @@ Assignments:
 
 ### March 3rd
 
-In class:
+#### In class:
 
 - midterm presentations (1 of 2)
 
-Assignments:
+#### Assignments:
 
 - due March 8th  - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due March 10th - midterm presentation (2 of 2)
@@ -89,11 +89,11 @@ Assignments:
 
 ### March 10th
 
-In class:
+#### In class:
 
 - midterm presentations (2 of 2)
 
-Assignments:
+#### Assignments:
 
 - due March 22nd - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 
@@ -101,11 +101,11 @@ Assignments:
 
 ### March 24th
 
-In class:
+#### In class:
 
 - individual meetings w/ thesis advisor & residents
 
-Assignments:
+#### Assignments:
 
 - due March 29th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due March 31st - Quick & Dirty poster
@@ -114,13 +114,13 @@ Assignments:
 
 ### March 31st
 
-In class:
+#### In class:
 
 - individual meetings w/ thesis advisor & residents
 - Quick & Dirty prep (6:00pm - 7:30pm)
 - Quick & Dirty show (7:30pm - 9:00pm)
 
-Assignments:
+#### Assignments:
 
 - due April 5th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 
@@ -128,12 +128,12 @@ Assignments:
 
 ### April 7th
 
-In class:
+#### In class:
 
 - individual meetings w/ thesis advisor & residents
 - review Quick & Dirty feedback
 
-Assignments:
+#### Assignments:
 
 - due April 12th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 
@@ -141,12 +141,12 @@ Assignments:
 
 ### April 14th
 
-In class:
+#### In class:
 
 - individual meetings w/ thesis advisor & residents
 - thesis archive prep
 
-Assignments:
+#### Assignments:
 
 - due April 19th - [Thesis Archive](https://github.com/nopivnick/itp_thesis_syllabus-lite/wiki/Thesis-Archive)
 
@@ -154,12 +154,12 @@ Assignments:
 
 ### April 21
 
-In class:
+#### In class:
 
 - individual meetings w/ thesis advisor & residents
 - final presentation prep
 
-Assignments:
+#### Assignments:
 
 - due April 26th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 
@@ -167,11 +167,11 @@ Assignments:
 
 ### April 28th
 
-In class:
+#### In class:
 
 - final presentation rehearsal
 
-Assignments:
+#### Assignments:
 
 - due May 3rd - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 
@@ -179,11 +179,11 @@ Assignments:
 
 ### May 5th
 
-In class:
+#### In class:
 
 - final presentations (3:00pm - 9:00pm)
 
-Assignments:
+#### Assignments:
 
 - due May 10th - [weekly update](https://github.com/nopivnick/itp_thesis_weekly/wiki/Weekly-Update)
 - due May 10th - final thesis documentation
